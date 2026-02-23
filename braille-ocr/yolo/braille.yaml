@@ -1,0 +1,14 @@
+path: datasets/braille
+
+train: images/train
+val: images/val
+
+nc: 6
+
+names:
+  0: dot1
+  1: dot2
+  2: dot3
+  3: dot4
+  4: dot5
+  5: dot6
